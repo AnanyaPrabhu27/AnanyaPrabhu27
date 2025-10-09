@@ -1,4 +1,3 @@
-<!-- Profile README for Ananya Prabhu -->
 <h1 align="center">Hey there 👋, I'm Ananya Prabhu!</h1>
 
 <p align="center">
