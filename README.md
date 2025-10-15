@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Ananya Prabhu!</h1>
 
 <p align="center">
-  <em>🌸 A 3rd-year Data Engineering & AI student passionate about building intelligent systems, machine learning models, AI pipelines, data-driven solutions, and interactive web applications.</em>
+  <em>🌸 A Data Engineering & AI student passionate about building systems, machine learning models, AI pipelines, data-driven solutions, and interactive web applications.</em>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 - 🌱 I’m currently exploring **AI, Machine Learning, Data Engineering, Big Data, and Frontend Development**  
 - 🧠 I enjoy building **end-to-end ML pipelines, data-driven dashboards, and intelligent applications**  
 - 🎯 Goal: To become a **Data Engineer & AI Specialist**, building scalable, intelligent systems that solve real-world problems  
-- 💬 Ask me about **Python, ML models, NLP, ETL pipelines, and data visualization**  
+- 💬 Ask me about **Python, ML models, ETL pipelines, and data visualization**  
 - 🌍 I am fascinated by **AI ethics, automation, and designing efficient data workflows**  
 
 ---
@@ -22,7 +22,7 @@
 </p>
 
 ### 🤖 AI & Data Engineering Expertise
-- **Machine Learning & AI:** Supervised & Unsupervised Learning, NLP, Deep Learning (CNNs, RNNs), Model Evaluation, Hyperparameter Tuning
+- **Machine Learning & AI:** Supervised & Unsupervised Learning, Deep Learning (CNNs, RNNs), Model Evaluation, Hyperparameter Tuning
   
 - **Data Engineering:** Python, SQL, PostgreSQL, ETL Pipelines, Apache Airflow, Data Cleaning & Transformation, Data Warehousing, APIs, Big Data
   
@@ -38,7 +38,7 @@
 
 | 💻 Project | 🧩 Description | 🌐 Link | 🛠️ Skills |
 |------------|----------------|---------|-----------|
-| 🤖 **Machine Learning Projects** | Collection of ML experiments, including predictive models, NLP tasks, and computer vision | [View Repo](https://github.com/AnanyaPrabhu27/Machine-Learning-Projects) | Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLP, CV, Regression/Classification, Visualization |
+| 🤖 **Machine Learning Projects** | Collection of ML experiments, including predictive models, NLP tasks, and computer vision | [View Repo](https://github.com/AnanyaPrabhu27/Machine-Learning-Projects) | Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, CV, Regression/Classification, Visualization |
 | 📊 **Data Engineering Projects** | End-to-end ETL pipelines, data warehousing, and analytics workflows | [View Repo](https://github.com/AnanyaPrabhu27/Data-Engineering-Projects) | Python, SQL, PostgreSQL, ETL, Apache Airflow, Data Cleaning, Transformation, Warehousing, APIs, Big Data |
 | 🎮 **Game Lending System** | A system to manage and track lending/borrowing of games efficiently | [View Repo](https://github.com/AnanyaPrabhu27/Game-Lending-System) | Python, Flask, SQLite, HTML, CSS, JS |
 | 🕒 **Notiva Productivity Dashboard** | A sleek productivity app with Pomodoro timer, tasks, and dashboards | [View Repo](https://github.com/AnanyaPrabhu27/Notiva-Productivity-Dashboard) | React, TypeScript, Tailwind, Framer Motion, CSS Animations |
