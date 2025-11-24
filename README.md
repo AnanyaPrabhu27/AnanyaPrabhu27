@@ -38,7 +38,6 @@
 
 | 💻 Project | 🧩 Description | 🌐 Link | 🛠️ Skills |
 |------------|----------------|---------|-----------|
-| 🤖 **Machine Learning Projects** | Collection of ML experiments, including predictive models, NLP tasks, and computer vision | [View Repo](https://github.com/AnanyaPrabhu27/Machine-Learning-Projects) | Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, CV, Regression/Classification, Visualization |
 | 📊 **Data Engineering Projects** | End-to-end ETL pipelines, data warehousing, and analytics workflows | [View Repo](https://github.com/AnanyaPrabhu27/Data-Engineering-Projects) | Python, SQL, PostgreSQL, ETL, Apache Airflow, Data Cleaning, Transformation, Warehousing, APIs, Big Data |
 | 🎮 **Game Lending System** | A system to manage and track lending/borrowing of games efficiently | [View Repo](https://github.com/AnanyaPrabhu27/Game-Lending-System) | Python, Flask, SQLite, HTML, CSS, JS |
 | 🕒 **Notiva Productivity Dashboard** | A sleek productivity app with Pomodoro timer, tasks, and dashboards | [View Repo](https://github.com/AnanyaPrabhu27/Notiva-Productivity-Dashboard) | React, TypeScript, Tailwind, Framer Motion, CSS Animations |
