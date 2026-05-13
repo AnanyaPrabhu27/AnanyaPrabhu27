@@ -1,67 +1,75 @@
-<h1 align="center">Hey there 👋, I'm Ananya Prabhu!</h1>
+<h1 align="center">Hi, I'm Ananya Prabhu 👋</h1>
 
 <p align="center">
-  <em>🌸 A Data Engineering & AI student passionate about building systems, machine learning models, AI pipelines, data-driven solutions, and interactive web applications.</em>
+  <em>Data Engineering & AI student </em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ananya-prabhu-870b59271/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ananyaprabhu753@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 💡 About Me
-- 🌱 I’m currently exploring **AI, Machine Learning, Data Engineering, Big Data, and Frontend Development**  
-- 🧠 I enjoy building **end-to-end ML pipelines, data-driven dashboards, and intelligent applications**  
-- 🎯 Goal: To become a **Data Engineer & AI Specialist**, building scalable, intelligent systems that solve real-world problems  
-- 💬 Ask me about **Python, ML models, ETL pipelines, and data visualization**  
-- 🌍 I am fascinated by **AI ethics, automation, and designing efficient data workflows**  
+### About Me
+
+I'm a Data Engineering & AI student who enjoys building things end-to-end — from raw sensor data all the way to a live web visualization. My current research at SAMK involves real-time indoor radar-based person detection using a multi-sensor pipeline I designed from scratch.
+
+I'm drawn to problems where data is messy and the solution needs to actually work in the real world.
+
+- 🎓 Studying Data Engineering & AI at **Satakunta University of Applied Sciences (SAMK)**
+- 🔭 Currently working on **real-time multi-sensor person detection** with radar + MQTT
+- 🌱 Deepening skills in **ML pipelines, deep learning, and scalable data architecture**
+- 💬 Happy to talk about **Python, ETL, sensor data, or frontend data viz**
 
 ---
 
 ### 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,postgres,apacheairflow,pandas,numpy,sklearn,tf,pytorch,matplotlib,seaborn,html,css,js,react,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,sklearn,tensorflow,pytorch,html,css,js,react,tailwind,git,github,vscode,figma" />
 </p>
 
-### 🤖 AI & Data Engineering Expertise
-- **Machine Learning & AI:** Supervised & Unsupervised Learning, Deep Learning (CNNs, RNNs), Model Evaluation, Hyperparameter Tuning
-  
-- **Data Engineering:** Python, SQL, PostgreSQL, ETL Pipelines, Apache Airflow, Data Cleaning & Transformation, Data Warehousing, APIs, Big Data
-  
-- **Visualization & Analysis:** Matplotlib, Seaborn, Plotly, Dashboard Design
-
-- **Deployment & Pipelines:** End-to-end model training, validation, and deployment workflows
- 
-**Frontend / Web Development:** React, TypeScript, Tailwind CSS, Framer Motion, HTML, CSS, JS, Interactive Dashboards  
-
----
-
-### 🚀 Featured Projects
-
-| 💻 Project | 🧩 Description | 🌐 Link | 🛠️ Skills |
-|------------|----------------|---------|-----------|
-| 📊 **Data Engineering Projects** | End-to-end ETL pipelines, data warehousing, and analytics workflows | [View Repo](https://github.com/AnanyaPrabhu27/Data-Engineering-Projects) | Python, SQL, PostgreSQL, ETL, Apache Airflow, Data Cleaning, Transformation, Warehousing, APIs, Big Data |
-| 🎮 **Game Lending System** | A system to manage and track lending/borrowing of games efficiently | [View Repo](https://github.com/AnanyaPrabhu27/Game-Lending-System) | Python, Flask, SQLite, HTML, CSS, JS |
-| 🕒 **Notiva Productivity Dashboard** | A sleek productivity app with Pomodoro timer, tasks, and dashboards | [View Repo](https://github.com/AnanyaPrabhu27/Notiva-Productivity-Dashboard) | React, TypeScript, Tailwind, Framer Motion, CSS Animations |
-
----
-
-### ✨ Fun Facts
-- 🐈‍⬛ I love blending **data, AI, and creative coding**  
-- 🎨 I enjoy making **interactive dashboards and animated web UIs**  
-- 📚 Learning advanced **AI/ML pipelines, deep learning, and data architecture**  
-- 🔍 Passionate about **data-driven decision making and building intelligent solutions**  
-
----
-
-### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ananya-prabhu-870b59271/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:ananyaprabhu753@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
 </p>
 
 ---
 
+### 🚀 Projects
+
+#### 🔭 Multi-Sensor Person Detection System *(Research — SAMK)* &nbsp;`Private`
+Real-time indoor presence detection using **3 ceiling-mounted Qumea R1B radar sensors**. Built the full pipeline from scratch: MQTT data ingestion, DBSCAN-based point cloud clustering, multi-sensor coordinate fusion, and a live web visualizer with animated trails and per-person tracking (up to 3 simultaneous).
+
+`Python` `MQTT` `DBSCAN` `WebSockets` `JavaScript` `SVG` 
+
+#### 📊 [Data Engineering Projects](https://github.com/AnanyaPrabhu27/Data-Engineering-Projects)
+End-to-end ETL pipelines covering data ingestion, transformation, warehousing, and workflow orchestration. Covers real-world scenarios including API integrations, data cleaning, and scheduled pipeline runs.
+
+`Python` `SQL` `PostgreSQL` `Apache Airflow` `ETL` `Big Data`
+
+#### 🕒 [Notiva Productivity Dashboard](https://github.com/AnanyaPrabhu27/Notiva-Productivity-Dashboard)
+A polished productivity app featuring a Pomodoro timer, task management, and animated dashboards. Focus was on smooth UI/UX with performant CSS animations and a clean component architecture.
+
+`React` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+#### 🎮 [Game Lending System](https://github.com/AnanyaPrabhu27/Game-Lending-System)
+A full-stack web app to manage and track game lending/borrowing, with a Python Flask backend and persistent SQLite storage.
+
+`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
+
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnanyaPrabhu27/AnanyaPrabhu27/main/wave.svg" width="100%" />
-  <br/>
-  <em>✨ “Engineer data pipelines, train AI models, and design with creativity.” ✨</em>
+  <em>✨ "Engineer the data. Train the model. Ship the thing." ✨</em>
 </p>
