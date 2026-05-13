@@ -17,12 +17,9 @@
 
 ### About Me
 
-I'm a Data Engineering & AI student who enjoys building things end-to-end — from raw sensor data all the way to a live web visualization. My current research at SAMK involves real-time indoor radar-based person detection using a multi-sensor pipeline I designed from scratch.
-
-I'm drawn to problems where data is messy and the solution needs to actually work in the real world.
+I'm a Data Engineering & AI student who enjoys building things end-to-end,from raw sensor data all the way to a live web visualization. Currently interning at Tampere university research that involves real-time person detection using a  radar based multi-sensor pipeline.
 
 - Studying Data Engineering & AI at **Turku University of Applied Sciences (TUAS)**
-- Currently working on **real-time multi-sensor person detection** with radar + MQTT
 - Deepening skills in **ML pipelines, deep learning, and scalable data architecture**
 - Happy to talk about **Python, ETL, sensor data, or frontend data viz**
 
@@ -48,8 +45,8 @@ I'm drawn to problems where data is messy and the solution needs to actually wor
 
 ### 🚀 Projects
 
-#### 🔭 Multi-Sensor Person Detection System *(Research — SAMK)* &nbsp;`Private`
-Real-time indoor presence detection using **3 ceiling-mounted Qumea R1B radar sensors**. Built the full pipeline from scratch: MQTT data ingestion, DBSCAN-based point cloud clustering, multi-sensor coordinate fusion, and a live web visualizer with animated trails and per-person tracking (up to 3 simultaneous).
+#### 🔭 Multi-Sensor Person Detection System *(Research)* &nbsp;`Private`
+Real-time person detection using **radar sensors**. Built the full pipeline from scratch: MQTT data ingestion, DBSCAN-based point cloud clustering, multi-sensor coordinate fusion, and a live web visualizer with animated trails and per-person tracking.
 
 `Python` `MQTT` `DBSCAN` `WebSockets` `JavaScript` `SVG` 
 
