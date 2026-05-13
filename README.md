@@ -42,16 +42,6 @@
 | 🎮 **Game Lending System** | A system to manage and track lending/borrowing of games efficiently | [View Repo](https://github.com/AnanyaPrabhu27/Game-Lending-System) | Python, Flask, SQLite, HTML, CSS, JS |
 | 🕒 **Notiva Productivity Dashboard** | A sleek productivity app with Pomodoro timer, tasks, and dashboards | [View Repo](https://github.com/AnanyaPrabhu27/Notiva-Productivity-Dashboard) | React, TypeScript, Tailwind, Framer Motion, CSS Animations |
 
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnanyaPrabhu27&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaPrabhu27&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 ### ✨ Fun Facts
