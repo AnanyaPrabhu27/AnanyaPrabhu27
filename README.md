@@ -21,10 +21,10 @@ I'm a Data Engineering & AI student who enjoys building things end-to-end — fr
 
 I'm drawn to problems where data is messy and the solution needs to actually work in the real world.
 
-- 🎓 Studying Data Engineering & AI at **Satakunta University of Applied Sciences (SAMK)**
-- 🔭 Currently working on **real-time multi-sensor person detection** with radar + MQTT
-- 🌱 Deepening skills in **ML pipelines, deep learning, and scalable data architecture**
-- 💬 Happy to talk about **Python, ETL, sensor data, or frontend data viz**
+- Studying Data Engineering & AI at **Turku University of Applied Sciences (TUAS)**
+- Currently working on **real-time multi-sensor person detection** with radar + MQTT
+- Deepening skills in **ML pipelines, deep learning, and scalable data architecture**
+- Happy to talk about **Python, ETL, sensor data, or frontend data viz**
 
 ---
 
